@@ -1,2 +1,2 @@
 # collectionViewDemo
-自适应collectionView
+collectionView 根据字符串长度自适应大小
